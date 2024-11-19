@@ -1,8 +1,8 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Егор Елин](https://up.htmlacademy.ru/javascript-individual/2/user/2565221).
-* Наставник: `Неизвестно`.
-
+* Наставник: [Дмитрий Беллавин](https://htmlacademy.ru/profile/bellavin).
+* Сайт: [Кекстаграм](https://egore-r.github.io/2565221-kekstagram-2/)
 ---
 
 _Не удаляйте и не изменяйте самовольно файлы и папки:_
